@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kimberly M. Bandillo</h1>
 
-- 🏫 I’m currently taking **BS Computer Science in University of the Philippines Los Baños**
+- 🏫 I’m currently studying for a **Bachelor of Science in Computer Science** at the **University of the Philippines Los Baños**
 
 - 💻 I’m an Active Resident Member of **UPLB Computer Science Society**
 
