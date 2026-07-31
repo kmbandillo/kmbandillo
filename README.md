@@ -3,7 +3,7 @@
 - 🎓 I'm a recent **Bachelor of Science in Computer Science** graduate from the **University of the Philippines Los Baños (UPLB)** 
 - 💻 Former Resident Member of the **UPLB Computer Science Society**
 - 📱 Developed **Baybayin Natin**, a mobile-based Baybayin transliteration application that uses **Tesseract OCR** to recognize Baybayin text as my undergraduate project
-- 📂 Published the **Baybayin OCR Dataset** to support research and development in Baybayin Optical Character Recognition (OCR). Available on **[GitHub](https://github.com/kmbandillo/baybayin-ocr-dataset)** and **[Kaggle](https://www.kaggle.com/datasets/kimberlybandillo/baybayin-ocr-dataset/data)**.
+- 📂 Published the **Baybayin Dataset (Characters and Words)** to support research and development in Baybayin Optical Character Recognition (OCR). Available on **[GitHub](https://github.com/kmbandillo/baybayin-ocr-dataset)** and **[Kaggle](https://www.kaggle.com/datasets/kimberlybandillo/baybayin-ocr-dataset/data)**.
 - 🧩 Collaborated as a frontend developer on our CMSC 128 project, **[BRICS: The Booking and Reservation System of the Institute of Computer Science](https://brics-alpha.vercel.app/)**
   
 <h3 align="left">Languages and Tools:</h3>
