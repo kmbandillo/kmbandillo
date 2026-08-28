@@ -6,8 +6,9 @@
 
 I build web and mobile applications and enjoy exploring  
 computer vision and OCR.
-</div>
+
 ---
+
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
