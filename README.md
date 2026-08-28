@@ -6,7 +6,9 @@
 
 I build web and mobile applications and enjoy exploring  
 computer vision and OCR.
+</div>
 
+<div align="left">
 ---
 
 ### 🛠️ Tech Stack
