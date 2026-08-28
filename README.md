@@ -9,7 +9,6 @@ computer vision and OCR.
 </div>
 
 <div align="left">
----
 
 ### 🛠️ Tech Stack
 
