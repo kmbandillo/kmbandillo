@@ -10,7 +10,7 @@ computer vision and OCR.
 
 <div align="left">
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -26,7 +26,6 @@ computer vision and OCR.
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=flat-square)
 ![Tesseract](https://img.shields.io/badge/Tesseract_OCR-5A5A5A?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
