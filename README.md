@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kimberly M. Bandillo</h1>
 
 - 🎓 I'm a recent **Bachelor of Science in Computer Science** graduate from the **University of the Philippines Los Baños (UPLB)** 
-- 📱 I build web and mobile applications and enjoy exploring  
-computer vision and OCR.
+- 📱 I build web and mobile applications and enjoy exploring computer vision and OCR.
 
 <h3 align="left">Languages and Tools:</h3>
 
